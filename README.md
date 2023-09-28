@@ -3,6 +3,7 @@
 **Descrição:** Esse é um projeto voltado a auxiliar as pessoas que estão no processo de aprender inglês, no qual por meio de um modelo de classificação de imagem reconhece o objeto da foto em que o usuário tirou e exibe o nome em inglês.
 
 ## Instalação
+**Necessário fazer a instalação do react-native-pytorch-core**
 
 Primeiramente é necessário instalar as bibliotecas do projeto:
 
